@@ -1,0 +1,8 @@
+C:\_TEST\Arvind.Test\Arvind.Test\bin\Debug\Arvind.Test.exe.config
+C:\_TEST\Arvind.Test\Arvind.Test\obj\Debug\Arvind.Test.csprojResolveAssemblyReference.cache
+C:\_TEST\Arvind.Test\Arvind.Test\bin\Debug\Arvind.Test.exe
+C:\_TEST\Arvind.Test\Arvind.Test\bin\Debug\Arvind.Test.pdb
+C:\_TEST\Arvind.Test\Arvind.Test\bin\Debug\CuttingEdge.Conditions.dll
+C:\_TEST\Arvind.Test\Arvind.Test\bin\Debug\CuttingEdge.Conditions.xml
+C:\_TEST\Arvind.Test\Arvind.Test\obj\Debug\Arvind.Test.exe
+C:\_TEST\Arvind.Test\Arvind.Test\obj\Debug\Arvind.Test.pdb
